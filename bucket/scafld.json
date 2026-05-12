@@ -1,16 +1,16 @@
 {
-  "version": "2.3.10",
+  "version": "2.3.11",
   "description": "Markdown-native task execution framework CLI.",
   "homepage": "https://github.com/nilstate/scafld",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/nilstate/scafld/releases/download/v2.3.10/scafld_2.3.10_windows_amd64.exe#/scafld.exe",
-      "hash": "18b6d8b2a2707f80f18dc16ac27444fd59408461764e11eb9dde3c264996c48c"
+      "url": "https://github.com/nilstate/scafld/releases/download/v2.3.11/scafld_2.3.11_windows_amd64.exe#/scafld.exe",
+      "hash": "ee3b185f5b632f27064c58fcb75d0f7b8924cd5e4224fc0accad5b5e1529bbcc"
     },
     "arm64": {
-      "url": "https://github.com/nilstate/scafld/releases/download/v2.3.10/scafld_2.3.10_windows_arm64.exe#/scafld.exe",
-      "hash": "fc72f8859627362545204c0d88bfaac281cb2a4bfba39a413ffa40505f8b0125"
+      "url": "https://github.com/nilstate/scafld/releases/download/v2.3.11/scafld_2.3.11_windows_arm64.exe#/scafld.exe",
+      "hash": "e12fb7107ffeb5d22817e84ad2c8e4696afea965e4b946ccef1bdbe2ce9f03e7"
     }
   },
   "bin": "scafld.exe",
