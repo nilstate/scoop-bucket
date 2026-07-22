@@ -1,16 +1,16 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "Deterministic protocol for multi-phase agent work.",
   "homepage": "https://0state.com/scafld",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/nilstate/scafld/releases/download/v2.5.1/scafld_2.5.1_windows_amd64.exe#/scafld.exe",
-      "hash": "ba796aafefa0bb2a98fe13583efdf1a04cc05d6d66b14b5afe89b6e351eb9a6c"
+      "url": "https://github.com/nilstate/scafld/releases/download/v2.5.2/scafld_2.5.2_windows_amd64.exe#/scafld.exe",
+      "hash": "dfd32fd697adc567a36276280a19968a8d242fd7b8ab239cbbf967d71eff03c8"
     },
     "arm64": {
-      "url": "https://github.com/nilstate/scafld/releases/download/v2.5.1/scafld_2.5.1_windows_arm64.exe#/scafld.exe",
-      "hash": "8ec1b728360eb2a9a175902efdccf4059315cc57021ab413fd9795053af1f496"
+      "url": "https://github.com/nilstate/scafld/releases/download/v2.5.2/scafld_2.5.2_windows_arm64.exe#/scafld.exe",
+      "hash": "d433bba680826c9f2d80903d32c1dca8c8e17af9da99299f1d22c3880bd5f17d"
     }
   },
   "bin": "scafld.exe",
